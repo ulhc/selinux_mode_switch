@@ -1,6 +1,6 @@
 id=selinux_mode_switch
 name=SELinux 模式切换
-version=v1.0.0
-versionCode=100
+version=v1.0.1
+versionCode=101
 author=https://github.com/ulhc/selinux_mode_switch
 description=🔥 一键切换 SELinux 强制/宽容模式 🔥
